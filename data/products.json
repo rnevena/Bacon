@@ -1,0 +1,242 @@
+[
+    {
+        "id" : 1,
+        "categoryId" : "1",
+        "name": "Portrait of George Dyer in a Mirror, 1968",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 60.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture1.jpg",
+                "alt" : "Portrait of George Dyer in a Mirror, 1968"
+            }
+    },
+    {
+        "id" : 2,
+        "categoryId" : "1",
+        "name": "Study of George Dyer, 1970",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 60.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture2.jpg",
+                "alt" : "Study of George Dyer, 1970"
+            }
+    },
+    {
+        "id" : 3,
+        "categoryId" : "1",
+        "name": "Study for a Pope I, 1961",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 55.00
+        },
+        "picture" :
+            {
+                "src" : "./img/basketpicture3.jpg",
+                "alt" : "Study for a Pope I, 1961"
+            }
+    },
+    {
+        "id" : 4,
+        "categoryId" : "1",
+        "name": "Man in Blue IV, 1954",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 55.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture4.jpg",
+                "alt" : "Man in Blue IV, 1954"
+            }
+    },
+    {
+        "id" : 5,
+        "categoryId" : "1",
+        "name": "Study for Portrait, 1971",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 60.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture5.jpg",
+                "alt" : "Study for Portrait, 1971"
+            }
+    },
+    {
+        "id" : 6,
+        "categoryId" : "1",
+        "name": "Man in Blue VII, 1954",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 55.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture6.jpg",
+                "alt" : "Man in Blue VII, 1954"
+            }
+    },
+    {
+        "id" : 7,
+        "categoryId" : "1",
+        "name": "Triptych, May–June 1973",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 60.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture7.jpg",
+                "alt" : "Triptych, May–June 1973"
+            }
+    },
+    {
+        "id" : 8,
+        "categoryId" : "1",
+        "name": "Three Studies for a Crucifixion, 1962",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 55.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture8.jpg",
+                "alt" : "Three Studies for a Crucifixion, 1962"
+            }
+    },
+    {
+        "id" : 9,
+        "categoryId" : "2",
+        "name": "Interviews with Francis Bacon",
+        "newInStore" : false,
+        "price" : {
+            "old" : 20.00,
+            "new" : 11.50
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture9.jpg",
+                "alt" : "Interviews with Francis Bacon by David Sylvester"
+            }
+    },
+    {
+        "id" : 10,
+        "categoryId" : "2",
+        "name": "Francis Bacon: Painting in a Godless World",
+        "newInStore" : true,
+        "price" : {
+            "old" : "",
+            "new" : 47.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture10.jpg",
+                "alt" : "Francis Bacon: Painting in a Godless World by Rina Arya"
+            }
+    },
+    {
+        "id" : 11,
+        "categoryId" : "2",
+        "name": "Francis Bacon: A Terrible Beauty",
+        "newInStore" : false,
+        "price" : {
+            "old" : 25.00,
+            "new" : 23.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture11.jpg",
+                "alt" : "Francis Bacon: A Terrible Beauty"
+            }
+    },
+    {
+        "id" : 12,
+        "categoryId" : "2",
+        "name": "Paintings 1990",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 45.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture12.jpg",
+                "alt" : "Paintings 1990 (book)"
+            }
+    },
+    {
+        "id" : 13,
+        "categoryId" : "3",
+        "name": "Box set of 50 postcards",
+        "newInStore" : true,
+        "price" : {
+            "old" : "",
+            "new" : 30.00
+        },
+        "picture" :
+            {
+                "src" : "./img/basketpicture13.jpg",
+                "alt" : "Box set of 50 postcards"
+            }
+    },
+    {
+        "id" : 14,
+        "categoryId" : "3",
+        "name": "Unisex t-shirt - study for a portrait of John Edwards",
+        "newInStore" : false,
+        "price" : {
+            "old" : "",
+            "new" : 20.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture15.jpg",
+                "alt" : "Unisex t-shirt - study for a portrait of John Edwards"
+            }
+    },
+    {
+        "id" : 15,
+        "categoryId" : "3",
+        "name": "Tray - self portrait, 1970",
+        "newInStore" : true,
+        "price" : {
+            "old" : "",
+            "new" : 35.00
+        },
+        "picture" :
+            {
+                "src" : "./img/basketpicture17.jpg",
+                "alt" : "Tray - self portrait, 1970"
+            }
+    },
+    {
+        "id" : 16,
+        "categoryId" : "3",
+        "name": "Tray - three studies from the human body, 1967",
+        "newInStore" : true,
+        "price" : {
+            "old" : "",
+            "new" : 35.00
+        },
+        "picture" : 
+            {
+                "src" : "./img/basketpicture18.jpg",
+                "alt" : "Tray - three studies from the human body, 1967"
+            }
+    }
+]

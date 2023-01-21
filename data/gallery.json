@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "in a good mood with friend Muriel Belcher, the owner and hostess of the Colony Room Club on Dean Street",
+        "srcbig":"./img/gallerybig1.jpg",
+        "srcsmall":"./img/gallerysmall1.jpg",
+        "alt":"Francis Bacon with Muriel Belcher"
+    },
+    {
+        "caption": "in his studio in London",
+        "srcbig":"./img/gallerybig2.jpg",
+        "srcsmall":"./img/gallerysmall2.jpg",
+        "alt":"Francis Bacon ih his studio in London"
+    },
+    {
+        "caption": "in front of Grand Palais, at his first exibition in France",
+        "srcbig":"./img/gallerybig3.jpg",
+        "srcsmall":"./img/gallerysmall3.jpg",
+        "alt":"Francis Bacon at Grand Palais"
+    },
+    {
+        "caption": "with his closest friend, Nadine Heim",
+        "srcbig":"./img/gallerybig4.jpg",
+        "srcsmall":"./img/gallerysmall4.jpg",
+        "alt":"Francis Bacon with Nadine Heim"
+    }
+]
