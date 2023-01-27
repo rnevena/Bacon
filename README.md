@@ -1,1 +1,2 @@
-[Fukcionalnosti projekta](https://github.com/rnevena/Bacon/files/10473115/dokumentacija.pdf)
+[Funkcionalnosti projekta](https://github.com/rnevena/Bacon/files/10522700/dokumentacija.pdf)
+http://francisbaconshop.epizy.com/
